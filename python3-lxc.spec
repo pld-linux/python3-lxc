@@ -2,7 +2,7 @@ Summary:	Python 3 bindings for LXC
 Summary(pl.UTF-8):	Wiązania Pythona 3 do LXC
 Name:		python3-lxc
 Version:	5.0.0
-Release:	2
+Release:	3
 License:	LGPL v2.1+
 Group:		Libraries/Python
 #Source0:	https://files.pythonhosted.org/packages/source/l/lxc/lxc-%{version}.tar.gz
